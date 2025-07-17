@@ -1,27 +1,17 @@
-# Hospital Management System 🏥
-This is a simple **Hospital Management System** developed using **C++**. It is a console-based project that helps manage patient records, doctor details, and appointment schedules.
+🏥 Hospital Management System – STAR Description
+| S | Situation – What was the context/problem?
+| T | Task – What was your responsibility or goal?
+| A | Action – What steps did you take?
+| R | Result – What was the outcome?
 
-## 👨‍💻 Features
-- Add new patient details
-- Display existing patient information
-- Assign doctors to patients
-- Handle multiple departments (e.g., Child Specialist, Gynecologist)
-- Basic console-based interface
+S – Situation:
+In my 1st semester of BS Artificial Intelligence, I was assigned a C++ project to build a basic system that could simulate real-world applications. I chose to develop a Hospital Management System.
 
-## 📂 Technologies Used
-- Language: C++
-- Platform: Windows (Console App)
+T – Task:
+The goal was to create a C++ program that could manage patient details, doctors' information, and hospital-related functionalities like appointments or record-keeping.
 
-## 🚀 How to Run
-1. Open the `.cpp` file in any C++ IDE (e.g., Dev C++, Code::Blocks, Visual Studio)
-2. Compile and run the code
+A – Action:
+I used object-oriented programming (OOP) concepts such as classes, inheritance, and encapsulation. I created different classes for doctors (child specialist, gynecologist, general), patients, and appointments. I implemented menu-driven logic using loops and conditional structures in C++ to allow user interaction.
 
-## 📌 Project Status
-✅ Completed – This was my 1st semester project for BS Artificial Intelligence at Pak-Austria University, Haripur.
-
-## 🙋‍♀️ About Me
-
-I'm Syeda Shereen Zehra, a BS Artificial Intelligence student passionate about programming and development.
-
-## 📎 License
-This project is open source and free to use.
+R – Result:
+The project was successfully compiled and tested. It helped me understand real-world software logic, apply OOP in C++, and learn basic software structuring. It also laid the foundation for future, more complex systems.
